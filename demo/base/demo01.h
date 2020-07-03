@@ -9,3 +9,7 @@
 
 
 void demo_reference();
+
+void demo_reference_02();
+
+void demo_reference_03();
